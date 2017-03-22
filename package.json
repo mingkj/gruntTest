@@ -1,0 +1,9 @@
+{
+    "name":"GruntTest",
+    "version":"1.0.0",
+    "description":"test grunt",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/mingkj/gruntTest"
+    }
+}
